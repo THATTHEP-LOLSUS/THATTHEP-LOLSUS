@@ -31,22 +31,14 @@
 **I don't need a team of developers. I have AI.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_AI-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Character_AI-000000?style=for-the-badge&logo=characterai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phind-000000?style=for-the-badge&logo=phind&logoColor=white" />
-  <img src="https://img.shields.io/badge/You.com-6B4EFF?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manus-000000?style=for-the-badge&logo=manus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=blackbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/openai" width="50">
+  <img src="https://cdn.simpleicons.org/anthropic" width="50">
+  <img src="https://cdn.simpleicons.org/googlegemini" width="50">
+  <img src="https://cdn.simpleicons.org/deepseek" width="50">
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="50">
+  <img src="https://cdn.simpleicons.org/perplexity" width="50">
+  <img src="https://cdn.simpleicons.org/meta" width="50">
+  <img src="https://cdn.simpleicons.org/mistral" width="50">
 </p>
 
 <p align="center">
