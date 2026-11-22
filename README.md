@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/cake.gif" width="650">
+  <img src="./images/cake.gif" width="450">
 </p>
 
 <p align="center">
