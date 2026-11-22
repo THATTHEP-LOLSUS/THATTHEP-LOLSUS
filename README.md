@@ -23,10 +23,8 @@
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux" />
+  <img src="https://skillicons.dev/icons?i=c,linux,Visual Studio Code" />
 </p>
-
-### 🤖 AI Army
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/claude" width="50" title="Claude">
@@ -35,7 +33,6 @@
   <img src="https://cdn.simpleicons.org/deepseek" width="50" title="DeepSeek">
   <img src="https://cdn.simpleicons.org/perplexity" width="50" title="Perplexity">
   <img src="https://cdn.simpleicons.org/meta" width="50" title="Meta AI">
-  <img src="https://cdn.simpleicons.org/mistral" width="50" title="Mistral AI">
 </p>
 
 
