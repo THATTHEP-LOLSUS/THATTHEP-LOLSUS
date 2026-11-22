@@ -19,40 +19,39 @@
 - ☕ Coffee Addict
 - ⚡ 100% Vibe Coder
 
-### 🛠️ My Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode,bash" />
+### 🛠️ My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux" />
 </p>
 
-### 🤖 AI Tools
+### 🤖 AI Army
 
-I use AI to code, debug, learn, and occasionally argue with it.
+**I don't need a team of developers. I have AI.**
 
-**ChatGPT | Claude | Gemini | Copilot | DeepSeek | And more...**
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_AI-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Character_AI-000000?style=for-the-badge&logo=characterai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phind-000000?style=for-the-badge&logo=phind&logoColor=white" />
+  <img src="https://img.shields.io/badge/You.com-6B4EFF?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manus-000000?style=for-the-badge&logo=manus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=blackbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+</p>
 
-### 💻 My Coding Philosophy
-
-```c
-#include <stdio.h>
-
-int main() {
-    while (1) {
-        drink_coffee();
-        ask_ai();
-        fix_bugs();
-        create_bugs();
-    }
-    return 0;
-}
-```
-
-### ☕ Fun Facts
-
-- I don't need sleep, I need coffee.
-- My code works. Don't ask me how.
-- If it works, it's not a bug. It's a feature.
-- 100% Vibe Coder. 100% confidence. 0% responsibility.
+<p align="center">
+  <i>Too many AI tools, still can't fix a missing semicolon.</i> 💀
+</p>
 
 ### 📊 GitHub Stats
 
