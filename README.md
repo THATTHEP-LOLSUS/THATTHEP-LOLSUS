@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Thatthep
+<p align="center">
+  <img src="./images/cake.gif" width="300">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Thatthep;100%25+Vibe+Coder;Powered+by+Coffee+%26+AI" />
@@ -34,9 +36,6 @@
   <img src="https://cdn.simpleicons.org/meta" width="50" title="Meta AI">
 </p>
 
-<p align="center">
-  <i>My AI team is bigger than my development team.</i> 💀
-</p>
 
 ### 📊 GitHub Stats
 
