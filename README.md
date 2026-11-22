@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm Thatthep
 
 <p align="center">
@@ -19,12 +18,12 @@
 - ☕ Coffee Addict
 - ⚡ 100% Vibe Coder
 
-
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=c,linux,vscode" />
 </p>
+
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/claude" width="50" title="Claude">
@@ -35,6 +34,9 @@
   <img src="https://cdn.simpleicons.org/meta" width="50" title="Meta AI">
 </p>
 
+<p align="center">
+  <i>My AI team is bigger than my development team.</i> 💀
+</p>
 
 ### 📊 GitHub Stats
 
